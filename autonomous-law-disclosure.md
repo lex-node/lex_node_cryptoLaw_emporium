@@ -12,7 +12,7 @@ From time to time I engage in "autonomous lawyering," which means that in analyz
 
 In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney). If my views expressed in autonomous lawyering contexts are inaccurate, there will be no legal recourse against me and an injured party will not be covered by malpractice insurance.
 
-For more about autonomous lawyering, please see [link](https://). 
+For more about autonomous lawyering, please see [link](https://lexnode.substack.com/p/autonomous-lawyering). 
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein: 
 *  the yearn.finance / YFI community (own ~2 YFI and stake various tokens in yearn.finance vaults) and

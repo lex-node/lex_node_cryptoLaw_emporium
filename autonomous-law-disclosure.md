@@ -1,6 +1,6 @@
 # AUTONOMOUS LAW DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
-Last Updated: 11/23/2020
+Last Updated: 2/15/2021
 
 ***Please be advised:***
 
@@ -16,9 +16,9 @@ For more about autonomous lawyering, please see [link](https://lexnode.substack.
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein: 
 *  the yearn.finance / YFI community (own ~3 YFI and stake various tokens in yearn.finance vaults) and
-*  the MetaCartel Ventures DAO community (own 2880 shares / 2.55% of total MCV shares); additionally, through MCV DAO, I have indirect economic interests in various projects
+*  the MetaCartel Ventures DAO community (own 2880 shares / 2.55% of total MCV shares); additionally, through MCV DAO, I have indirect economic interests in various projects--many of MCV DAO's investments have been publicly announced and can be identified through news articles, social media announcements, etc. 
 
-I also hold BTC, XMR, ETH, LINK & various stablecoins
+I also hold BTC, XMR, ETH, LINK, SUSHI, DOGE & various stablecoins
 
 I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
 

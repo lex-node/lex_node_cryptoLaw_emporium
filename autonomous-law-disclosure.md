@@ -1,6 +1,6 @@
 # AUTONOMOUS LAW DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
-Last Updated: 5/18/2021
+Last Fully Updated: 5/18/2021
 
 ***Please be advised:***
 
@@ -17,7 +17,9 @@ For more about autonomous lawyering, please see [link](https://lexnode.substack.
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein: 
 *  the yearn.finance / YFI community (own ~2 YFI and stake various tokens in yearn.finance vaults)
 
-I also hold non-immaterial amounts (by portfolio %) of BTC, XMR, ETH, SUSHI, HEGIC, LDO, RAI & various stablecoins
+I also hold non-immaterial amounts (by portfolio %) of BTC, XMR, ETH, SUSHI, LDO, FLX, RAI & various stablecoins
+
+I have rights to equity and/or tokens in various projects from my time as a member of MetaCartel Ventures DAO (includes FLX). 
 
 I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
 

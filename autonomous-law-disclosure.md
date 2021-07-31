@@ -1,10 +1,11 @@
 # AUTONOMOUS LAW DISCLOSURE - GABRIEL SHAPIRO/@lex_node
+
 ----
 Last Fully Updated: 7/31/21
 
-**I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
-**
------
+***I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. ***
+
+----
 
 ***Please be advised:***
 
@@ -28,39 +29,40 @@ I currently engage in autonomous lawyering in the following communities. I do <u
 
 I also sporadically engage in TradLaw representations of various members of the aforementioned communities. 
 
-As General Counsel of Delphi Labs, I have direct or indirect economic interests in the equity and/or tokens of various entities, public projects and pre-public projects. Although the details of these holdings are confidential, I note that a number of them involve the Terra Ecosystem. 
+As General Counsel of Delphi Labs, I have direct or indirect economic interests in the equity and/or tokens of various entities, public projects and pre-public projects. Although the details of these holdings are confidential, I note that a number of them involve the [Terra Ecosystem](https://docs.terra.money/ecosystem.html). 
 
 From my time as a member of MetaCartel Ventures DAO, I have direct or indirect economic interests in the equity and/or tokens of the below-listed entities or projects (all accumulated prior to ragequit on May 16 2021):
-    Reflexer
-    Zapper
-    Pocket
-    DeFi Dollar
-    Republic Note
-    Niftex
-    Karma
-    Gelato
-    STAKE
-    DAOHaus
-    PoolTogether
-    Boardroom
-    EPNS
-    Reality Cards
-    Overlay
-    BrightID
-    Rarible
-    Potion
-    Opium
-    Defiant
-    Arweave
-    RAC Token
-    Known Origin
-    Chainflip
-    Sky Mavis/Axie Infinity
-    Arbitrum
-    Marble
-    SuperFluid
-    FWB
-    Gitcoin
-    Galleon
-    Opolis
-    Block Art
+
+* Reflexer
+* Zapper
+* Pocket
+* DeFi Dollar
+* Republic 
+* Niftex
+* Karma
+* Gelato
+* STAKE
+* DAOHaus
+* PoolTogether
+* Boardroom
+* EPNS
+* Reality Cards
+* Overlay
+* BrightID
+* Rarible
+* Potion
+* Opium
+* Defiant
+* Arweave
+* RAC Token
+* Known Origin
+* Chainflip
+* Sky Mavis/Axie Infinity
+* Arbitrum
+* Marble
+* SuperFluid
+* FWB
+* Gitcoin
+* Galleon
+* Opolis
+* Block Art

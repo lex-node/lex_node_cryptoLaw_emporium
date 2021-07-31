@@ -19,7 +19,7 @@ I currently engage in autonomous lawyering in the following communities and have
 
 I also hold non-immaterial amounts (by portfolio %) of BTC, XMR, ETH, SUSHI, LDO, FLX, RAI & various stablecoins
 
-I have rights to equity and/or tokens in various projects from my time as a member of MetaCartel Ventures DAO (includes FLX). 
+I have rights to equity and/or tokens in various projects from my time as a member of MetaCartel Ventures DAO (includes FLX & RARI, which I sometimes tweet about). 
 
 I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
 

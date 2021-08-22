@@ -29,7 +29,7 @@ I currently engage in autonomous lawyering in the following communities. I do <u
 
 I also sporadically engage in TradLaw representations of various members of the aforementioned communities. 
 
-As General Counsel of [Delphi Labs](https://www.delphidigital.io/consulting/), I have direct or indirect economic interests in the equity and/or tokens of various entities, public projects and pre-public projects. Although the details of these holdings are confidential, I note that a number of them involve the [Terra Ecosystem](https://docs.terra.money/ecosystem.html). 
+As General Counsel of [Delphi Labs](https://www.delphidigital.io/consulting/), I have direct or indirect economic interests in the equity and/or tokens of various entities, public projects and pre-public projects. Although the details of these holdings are confidential, I note that a number of them involve the [Terra Ecosystem](https://docs.terra.money/ecosystem.html), including [Mars](https://twitter.com/mars_protocol) and [Astroport](https://twitter.com/astroport_fi). 
 
 From my time as a member of [MetaCartel Ventures DAO](https://metacartel.xyz/), I have direct or indirect economic interests in the equity and/or tokens of the below-listed entities or projects (all accumulated prior to ragequit on May 16 2021):
 

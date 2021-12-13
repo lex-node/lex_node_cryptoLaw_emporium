@@ -23,7 +23,6 @@ As a personal user of blockchain technologies, I hold BTC, XMR, ETH, STETH, SUSH
 
 I currently engage in autonomous lawyering in the following communities. I do <u>not</u> have 'token awards' or other similar incentives from these communities:
 *  the yearn.fi / YFI community (own ~2 YFI and stake various tokens in yearn.finance vaults)
-*  the SushiSwap community 
 *  the curve.fi community 
 *  the lido.fi community
 

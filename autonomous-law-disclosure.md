@@ -1,7 +1,7 @@
 # AUTONOMOUS LAW DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
 ----
-Last Fully Updated: 7/31/21
+Last Fully Updated: 12/14/2021
 
 ***I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.***
 
@@ -19,14 +19,7 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 For more about autonomous lawyering, please see [link](https://lexnode.substack.com/p/autonomous-lawyering). 
 
-As a personal user of blockchain technologies, I hold BTC, XMR, ETH, STETH, SUSHI, LDO, GTC, ROBOT, FLX, RAI, DAI, USDC, USDT. All were bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. 
-
-I currently engage in autonomous lawyering in the following communities. I do <u>not</u> have 'token awards' or other similar incentives from these communities:
-*  the yearn.fi / YFI community (own ~2 YFI and stake various tokens in yearn.finance vaults)
-*  the curve.fi community 
-*  the lido.fi community
-
-I also sporadically engage in TradLaw representations of various members of the aforementioned communities. 
+As a personal user of blockchain technologies, I hold BTC, ETH and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. 
 
 As General Counsel of [Delphi Labs](https://www.delphidigital.io/consulting/), I have direct or indirect economic interests in the equity and/or tokens of various entities, public projects and pre-public projects. Although the details of these holdings are confidential, I note that a number of them involve the [Terra Ecosystem](https://docs.terra.money/ecosystem.html), including [Mars](https://twitter.com/mars_protocol) and [Astroport](https://twitter.com/astroport_fi). 
 

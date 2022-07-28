@@ -1,9 +1,9 @@
 # ETHICS DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
 ----
-Last Fully Updated: 12/14/2021
+Last Updated: 7/28/2022
 
-***I assume no duty and provide no guarantee of keeping these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.***
+***I assume no duty and provide no guarantee of keeping these disclosures complete or up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.***
 
 ----
 

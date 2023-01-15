@@ -1,7 +1,7 @@
 # ETHICS DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
 ----
-Last Updated: 7/28/2022
+Last Updated: 1/15/2023
 
 ***I assume no duty and provide no guarantee of keeping these disclosures complete or up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.***
 
@@ -19,7 +19,7 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 For more about autonomous lawyering, please see [link](https://lexnode.substack.com/p/autonomous-lawyering). 
 
-As a personal user of blockchain technologies, I hold BTC, ETH and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. 
+As a personal user of blockchain technologies, I hold BTC, ETH, RUNE, LUNA and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. 
 
 As General Counsel of [Delphi Labs](https://delphidigital.io/labs), I have direct or indirect economic interests in the equity and/or tokens of various entities, launched projects and pre-launch projects. These include [Mars](https://twitter.com/mars_protocol) and [Astroport](https://twitter.com/astroport_fi). As compensation from Delphi Labs, I am or will be a direct recipient of a material amount of $MARS and $ASTRO tokens through the "Joint Venture Allocation" of these tokens. Details of the unlocking schedule of these tokens may be found on the [Mars Medium](https://mars-protocol.medium.com/) and [Astroport Medium](https://astroport.medium.com/). I am also an equity holder in Delphi Ventures master fund(s)--see [Delphi Ventures Transparency Page](https://delphidigital.io/transparency). I have personal holdings of LUNA (aka LUNA2) that unlock over time as a result of the Terra Classic-->Terra[2] fork. I also have indirect interests in LUNA (aka LUNA2) due to dev mining reward programs on Terra (aka Terra2). 
 

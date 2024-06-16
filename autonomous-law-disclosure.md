@@ -9,7 +9,7 @@ Last Updated: 6/16/2024
 
 ***Please be advised:***
 
-<b>Autonomous Lawyering--No Atty/Client Relationship!!!</b>
+<h2>Autonomous Lawyering--No Atty/Client Relationship!!!</h2>
 
 I am a lawyer admitted to practice in California. 
 
@@ -21,11 +21,11 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 For more about autonomous lawyering, please see [link](https://metalex.substack.com/p/autonomous-lawyering). 
 
-<b>Liquid Tokens</b>
+<h2>Liquid Tokens</h2>
 
 As a personal user of blockchain technologies, I hold BTC, ETH, and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. I will typically not disclose open-market-bought positions unless they are material (either to myself relative to my overall holdings or relative to the overall project distribution). I own a relatively substantial amount of Radbros and Schizoposters NFTs. 
 
-<b>MetaLeX</b>
+<h2>MetaLeX</h2>
 
 I am founder of and own a majority interest in [MetaLeX](https://www.metalex.tech/), which includes a crypto-oriented law firm and a tech company specializing in cybernetic entities and other code/law/governance solutions. MetaLeX will periodically receive early-stage token and/or equity allocations from its clients, some of which may be material, as well as ecosystem grants for building MetaLeX on certain chains etc. Legal engagements of MetaLeX, and identities of clients of MetaLeX, may be confidential and unable to be dislcosed. 
 
@@ -33,11 +33,11 @@ MetaLeX has done significant work for Matter Labs (mainly oriented around creati
 
 MetaLeX has also performed significant work realted to the Lido ecosystem, and cyber•Fund is both a significant investor in the Lido ecosystem and the lead investor for MetaLeX Labs (see [MetaLeX fundraise announcement](https://www.coindesk.com/business/2024/05/24/crypto-governance-advisory-metalex-raises-275m/)). 
 
-<b>Delphi Digital</b>
+<h2>Delphi Digital</h2>
 
 As former General Counsel of [Delphi Labs](https://delphidigital.io/labs) and an LP in and advisor to [Delphi Ventures](https://www.delphiventures.com/), I have direct or indirect economic interests in the equity and/or tokens of various entities, launched projects and pre-launch projects. From Delphi Labs these include a material amount of $MARS and $ASTRO tokens (some held directly, some indirectly through Delphi Labs equity) and, through Delphi Labs equity, potentially valuable interests in [Legion](https://legion.cc/an-honest-musing), [Resolv](https://resolv.finance/) and [Levana](https://www.levana.finance/). From Delphi Ventures these include a potentially valuable interest in $ENA among other venture investments. 
 
-<b>Metacartel Ventures DAO</b>
+<h2>Metacartel Ventures DAO</h2>
 
 From my time as a member of [MetaCartel Ventures DAO](https://metacartel.xyz/), I have direct or indirect economic interests in the equity and/or tokens of the below-listed entities or projects (all accumulated prior to ragequit on May 16 2021). Certain of these have been fully sold as of 6/16/2024. 
 

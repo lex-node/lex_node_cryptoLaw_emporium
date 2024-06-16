@@ -1,7 +1,7 @@
 # ETHICS DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
 ----
-Last Updated: 1/15/2023
+Last Updated: 6/16/2024
 
 ***I assume no duty and provide no guarantee of keeping these disclosures complete or up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.***
 
@@ -17,13 +17,17 @@ From time to time I engage in "autonomous lawyering," which means that in analyz
 
 In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney). If my views expressed in autonomous lawyering contexts are inaccurate, there will be no legal recourse against me and an injured party will not be covered by malpractice insurance.
 
-For more about autonomous lawyering, please see [link](https://lexnode.substack.com/p/autonomous-lawyering). 
+For more about autonomous lawyering, please see [link](https://metalex.substack.com/p/autonomous-lawyering). 
 
-As a personal user of blockchain technologies, I hold BTC, ETH, RUNE, LUNA and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. 
+As a personal user of blockchain technologies, I hold BTC, ETH, and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. I will typically not disclose open-market-bought positions unless they are material (either to myself relative to my overall holdings or relative to the overall project distribution). 
 
-As General Counsel of [Delphi Labs](https://delphidigital.io/labs), I have direct or indirect economic interests in the equity and/or tokens of various entities, launched projects and pre-launch projects. These include [Mars](https://twitter.com/mars_protocol) and [Astroport](https://twitter.com/astroport_fi). As compensation from Delphi Labs, I am or will be a direct recipient of a material amount of $MARS and $ASTRO tokens through the "Joint Venture Allocation" of these tokens. Details of the unlocking schedule of these tokens may be found on the [Mars Medium](https://mars-protocol.medium.com/) and [Astroport Medium](https://astroport.medium.com/). I am also an equity holder in Delphi Ventures master fund(s)--see [Delphi Ventures Transparency Page](https://delphidigital.io/transparency). I have personal holdings of LUNA (aka LUNA2) that unlock over time as a result of the Terra Classic-->Terra[2] fork. I also have indirect interests in LUNA (aka LUNA2) due to dev mining reward programs on Terra (aka Terra2). 
+I am founder of and own a majority interest in [MetaLeX](https://www.metalex.tech/), which includes a crypto-oriented law firm and a tech company specializing in cybernetic entities and other code/law/governance solutions. MetaLeX has done significant work for Matter Labs (mainly oriented around creation of DAO-adjacent entities), the development company of the ZKsync protocol, and holds rights to a mdoest amount of $ZK tokens. MetaLeX may continue to perform work for ZKsync-related entities from time to time. Legal engagements of MetaLeX, and identities of clients of MetaLeX, may be confidential and unable to be dislcosed. MetaLeX has also performed significant work realted to the Lido ecosystem, and cyber•Fund is both a significant investor in the Lido ecosystem and the lead investor for MetaLeX Labs (see [MetaLeX fundraise announcement](https://www.coindesk.com/business/2024/05/24/crypto-governance-advisory-metalex-raises-275m/)). MetaLeX will periodically receive early-stage token and/or equity allocations from its clients, some of which may be material, as well as ecosystem grants for building MetaLeX on certain chains etc. 
 
-From my time as a member of [MetaCartel Ventures DAO](https://metacartel.xyz/), I have direct or indirect economic interests in the equity and/or tokens of the below-listed entities or projects (all accumulated prior to ragequit on May 16 2021):
+I intend to serve as one of the ZKsync Guardians. 
+
+As former General Counsel of [Delphi Labs](https://delphidigital.io/labs) and an LP in and advisor to [Delphi Ventures](https://www.delphiventures.com/), I have direct or indirect economic interests in the equity and/or tokens of various entities, launched projects and pre-launch projects. From Delphi Labs these include a material amount of $MARS and $ASTRO tokens (some held directly, some indirectly through Delphi Labs equity) and, through Delphi Labs equity, potentially valuable interests in [Legion](https://legion.cc/an-honest-musing), [Resolv](https://resolv.finance/) and [Levana](https://www.levana.finance/). From Delphi Ventures these include a potentially valuable interest in $ENA among other venture investments. 
+
+From my time as a member of [MetaCartel Ventures DAO](https://metacartel.xyz/), I have direct or indirect economic interests in the equity and/or tokens of the below-listed entities or projects (all accumulated prior to ragequit on May 16 2021). Certain of these have been fully sold as of 6/16/2024. 
 
 * Reflexer
 * Zapper

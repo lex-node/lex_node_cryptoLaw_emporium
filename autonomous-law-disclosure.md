@@ -23,7 +23,7 @@ For more about autonomous lawyering, please see [link](https://metalex.substack.
 
 <h2>Liquid Tokens</h2>
 
-As a personal user of blockchain technologies, I hold BTC, ETH, and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. I will typically not disclose open-market-bought positions unless they are material (either to myself relative to my overall holdings or relative to the overall project distribution). I own a relatively substantial amount of Radbros and Schizoposters NFTs. 
+As a personal user of blockchain technologies, I hold BTC, ETH, SOL, and various other tokens bought on the open market, received as cash-equivalent compensation in routine business transactions or received in airdrops, staking or similar open distributions. I will typically not disclose open-market-bought positions unless they are material (either to myself relative to my overall holdings or relative to the overall project distribution). I own a relatively substantial amount of Radbros and Schizoposters NFTs. 
 
 <h2>MetaLeX</h2>
 

@@ -35,6 +35,12 @@ MetaLeX Pro has also performed significant work realted to the Lido ecosystem, a
 
 MetaleX Pro is receiving 1.3125% of the total circulating supply of $WLFI, the governance token of the World Liberty Financial  protocol. This is a locked, non-transferable token whose sole utility is voting in governance proposals for World Liberty Financial. We are being compensated for our firm's legal services to Axiom Management Group, LLC, the developers of the World Liberty Financial protocol. 
 
+MetaLeX Pro has a SAFE and Token Warrant from [AI Layer](https://anvm.io/) received in exchange for legal work. 
+
+<h2>Angel Investments</h2>
+
+I occasionally make angel venture investments. Currently invested in Eclipse and Intuition. 
+
 <h2>Delphi Digital</h2>
 
 As former General Counsel of [Delphi Labs](https://delphidigital.io/labs) and an LP in and advisor to [Delphi Ventures](https://www.delphiventures.com/), I have direct or indirect economic interests in the equity and/or tokens of various entities, launched projects and pre-launch projects. From Delphi Labs these include a material amount of $MARS and $ASTRO tokens (some held directly, some indirectly through Delphi Labs equity) and, through Delphi Labs equity, potentially valuable interests in [Legion](https://legion.cc/an-honest-musing), [Resolv](https://resolv.finance/) and [Levana](https://www.levana.finance/). From Delphi Ventures these include a potentially valuable interest in $ENA among other venture investments. 

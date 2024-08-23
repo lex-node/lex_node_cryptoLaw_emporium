@@ -1,7 +1,7 @@
 # ETHICS DISCLOSURE - GABRIEL SHAPIRO/@lex_node
 
 ----
-Last Updated: 8/20/2024
+Last Updated: 8/23/2024
 
 ***I assume no duty and provide no guarantee of keeping these disclosures complete or up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure.***
 
@@ -27,11 +27,13 @@ As a personal user of blockchain technologies, I hold BTC, ETH, SOL, and various
 
 <h2>MetaLeX</h2>
 
-I am founder of and own a majority interest in [MetaLeX](https://www.metalex.tech/), which includes a crypto-oriented law firm and a tech company specializing in cybernetic entities and other code/law/governance solutions. MetaLeX will periodically receive early-stage token and/or equity allocations from its clients, some of which may be material, as well as ecosystem grants for building MetaLeX on certain chains etc. Legal engagements of MetaLeX, and identities of clients of MetaLeX, may be confidential and unable to be dislcosed. 
+I am founder of and own a majority interest in [MetaLeX](https://www.metalex.tech/), which includes a crypto-oriented law firm (MetaLeX Pro) and a tech company (MetaLeX Labs) specializing in cybernetic entities and other code/law/governance solutions. MetaLeX will periodically receive early-stage token and/or equity allocations from its clients, some of which may be material, as well as ecosystem grants for building MetaLeX on certain chains etc. Legal engagements of MetaLeX, and identities of clients of MetaLeX, may be confidential and unable to be dislcosed. 
 
-MetaLeX has done significant work for Matter Labs (mainly oriented around creation of DAO-adjacent entities), the development company of the ZKsync protocol, and holds rights to a modest amount of $ZK tokens and Matter Labs equity shares. MetaLeX may continue to perform work for ZKsync-related entities from time to time. I intend to serve as one of the ZKsync Guardians. 
+MetaLeX Pro has done significant work for Matter Labs (mainly oriented around creation of DAO-adjacent entities), the development company of the ZKsync protocol, and holds rights to a modest amount of $ZK tokens and Matter Labs equity shares. MetaLeX may continue to perform work for ZKsync-related entities from time to time. I intend to serve as one of the ZKsync Guardians. 
 
-MetaLeX has also performed significant work realted to the Lido ecosystem, and cyber•Fund is both a significant investor in the Lido ecosystem and the lead investor for MetaLeX Labs (see [MetaLeX fundraise announcement](https://www.coindesk.com/business/2024/05/24/crypto-governance-advisory-metalex-raises-275m/)). 
+MetaLeX Pro has also performed significant work realted to the Lido ecosystem, and cyber•Fund is both a significant investor in the Lido ecosystem and the lead investor for MetaLeX Labs (see [MetaLeX fundraise announcement](https://www.coindesk.com/business/2024/05/24/crypto-governance-advisory-metalex-raises-275m/)). 
+
+MetaleX Pro is receiving 1.3125% of the total circulating supply of $WLFI, the governance token of the World Liberty Financial  protocol. This is a locked, non-transferable token whose sole utility is voting in governance proposals for World Liberty Financial. We are being compensated for our firm's legal services to Axiom Management Group, LLC, the developers of the World Liberty Financial protocol. 
 
 <h2>Delphi Digital</h2>
 

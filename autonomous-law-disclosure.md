@@ -33,8 +33,6 @@ MetaLeX Pro has done significant work for Matter Labs (mainly oriented around cr
 
 MetaLeX Pro has also performed significant work realted to the Lido ecosystem, and cyber•Fund is both a significant investor in the Lido ecosystem and the lead investor for MetaLeX Labs (see [MetaLeX fundraise announcement](https://www.coindesk.com/business/2024/05/24/crypto-governance-advisory-metalex-raises-275m/)). 
 
-MetaleX Pro is receiving 1.3125% of the total circulating supply of $WLFI, the governance token of the World Liberty Financial  protocol. This is a locked, non-transferable token whose sole utility is voting in governance proposals for World Liberty Financial. We are being compensated for our firm's legal services to Axiom Management Group, LLC, the developers of the World Liberty Financial protocol. 
-
 MetaLeX Pro has a SAFE and Token Warrant from [AI Layer](https://anvm.io/) received in exchange for legal work. 
 
 <h2>Angel Investments</h2>
